@@ -1,2 +1,2 @@
 # FACIALE MOTION_DETCTION
-using deeplearningopencv
+using deeplearning opencv
