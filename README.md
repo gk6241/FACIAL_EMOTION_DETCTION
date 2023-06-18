@@ -1,2 +1,2 @@
-# FACIAL_EMOTION_DETCTION
+# FACIAL EMOTION_DETCTION
 using deeplearning opencv
